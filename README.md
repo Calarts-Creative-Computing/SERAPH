@@ -1,4 +1,6 @@
 ![Calarts Creative Computing Logo](https://www.hanoverresearch.com/wp-content/uploads/2020/05/CALARTS-01.png)
+![Calarts Creative Computing Logo](https://i.imgur.com/235dOcD.png)
+
 
 # SERAPH
 
