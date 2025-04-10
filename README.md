@@ -47,6 +47,9 @@ Seraph is designed to be flexible and open-ended. Whether you're building a MIDI
 
 **Have fun and make something amazing!**
 
+---
+
+
 <p align="center">
   <a href="https://github.com/Calarts-Creative-Computing/Seraph/stargazers">
     <img src="https://img.shields.io/github/stars/Calarts-Creative-Computing/Seraph?style=social" alt="Stars">
