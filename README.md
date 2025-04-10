@@ -111,6 +111,8 @@ For simple analog sensors like potentiometers, which do not require pulldown res
 
 *The code for this circuit can be found in the Seraph Github repository under the name **Seraph_PotentiometerDemo***
 
+---
+
 
 ### **<span style="text-decoration:underline;">Connecting an Analog Sensor *with* a Pulldown Resistor</span>**
 
@@ -133,6 +135,8 @@ For sensors such as LDRs (Light Dependent Resistors) or FSRs (Force Sensitive Re
 
 
 *The code for this circuit can be found in the Seraph Github repository under the name **Seraph_FSRDemo***
+---
+
 
 **<span style="text-decoration:underline;">Connecting a Digital Sensor</span>**
 
@@ -153,6 +157,9 @@ For basic digital input devices like buttons that don’t require pullup or pull
 
 
 *The code for this circuit can be found in the Seraph Github repository under the name **Seraph_ButtonDemo***
+
+---
+
 
 
 ### **<span style="text-decoration:underline;">Connecting an I²C Sensor</span>**
@@ -178,6 +185,7 @@ To connect an I²C sensor (such as IMUs or environmental sensors):
 
 ![figure4](https://i.imgur.com/VybPBKZ.png "image_tooltip")
 
+---
 
 
 <p align="center">
