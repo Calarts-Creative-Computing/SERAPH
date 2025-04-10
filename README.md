@@ -42,4 +42,4 @@ Seraph is designed to be flexible and open-ended. Whether you're building a MIDI
 
 **Have fun and make something amazing!**
 
-![Seraph Screenshot](https://imgur.com/acedc91a-cae3-4725-b315-b41238a423c7)
+![Seraph Screenshot](https://i.imgur.com/n9ZP12J.png)
