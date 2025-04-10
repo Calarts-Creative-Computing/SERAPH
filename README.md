@@ -2,7 +2,7 @@
 
 
 # SERAPH
----
+
 
 
 **Seraph – Open-Source Teensy MIDI Controller Platform**  
