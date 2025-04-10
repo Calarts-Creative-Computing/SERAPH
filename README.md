@@ -1,3 +1,5 @@
+![Calarts Creative Computing Logo](https://www.hanoverresearch.com/wp-content/uploads/2020/05/CALARTS-01.png)
+
 # SERAPH
 
 **Seraph – Open-Source Teensy MIDI Controller Platform**  
@@ -43,4 +45,3 @@ Seraph is designed to be flexible and open-ended. Whether you're building a MIDI
 **Have fun and make something amazing!**
 
 ![Seraph Screenshot](https://i.imgur.com/n9ZP12J.png)
-![Calarts Creative Computing Logo](https://www.hanoverresearch.com/wp-content/uploads/2020/05/CALARTS-01.png)
