@@ -83,6 +83,98 @@ Seraph is designed to be flexible and open-ended. Whether you're building a MIDI
 
 ![Seraph Screenshot](https://i.imgur.com/n9ZP12J.png)
 
+
+**<span style="text-decoration:underline;">Seraph Quickstart Tutorials + Diagrams</span>**
+
+**<span style="text-decoration:underline;">Connecting an Analog Sensor (No Pulldown Resistor Required)</span>**
+
+For simple analog sensors like potentiometers, which do not require pulldown resistors:
+
+1: Connect your power lead to any + (power) via.
+
+2: Connect your ground lead to any – (ground) via.
+
+3: Connect your data lead to any available analog input via, and make sure to modify your code to match the analog input you chose
+
+
+
+
+
+
+![Diagram1](https://i.imgur.com/gaAru7W.png "image_tooltip")
+
+
+*The code for this circuit can be found in the Seraph Github repository under the name **Seraph_PotentiometerDemo***
+
+
+### **<span style="text-decoration:underline;">Connecting an Analog Sensor *with* a Pulldown Resistor</span>**
+
+For sensors such as LDRs (Light Dependent Resistors) or FSRs (Force Sensitive Resistors) that *do* require a pulldown resistor:
+
+
+
+1. Connect your power lead to any + (power) via. \
+
+2. Connect your data lead to your desired analog input via, and make sure to reflect this choice in your code. \
+
+3. Place your pulldown resistor in the allocated resistor area on the PCB, and make sure it is in the same row as your chosen analog input. This connects the sensor’s data line to ground. The built-in resistor footprint on the PCB makes this easy and clean.
+
+
+
+
+
+
+![alt_text](https://i.imgur.com/6BPQGN4.png "image_tooltip")
+
+
+*The code for this circuit can be found in the Seraph Github repository under the name **Seraph_FSRDemo***
+
+**<span style="text-decoration:underline;">Connecting a Digital Sensor</span>**
+
+For basic digital input devices like buttons that don’t require pullup or pulldown resistors:
+
+
+
+1. Connect one lead of the button to any - (ground) via.
+2. Connect the other lead to the desired digital input via, and make sure to reflect this choice in your code.
+3. To connect an LED to this circuit, simply place an LED in one of the allocated LED slots, and place your resistor in a resistor slot in the same row.
+
+
+
+
+
+
+![alt_text](https://i.imgur.com/5UsLsT5.png) 
+
+
+*The code for this circuit can be found in the Seraph Github repository under the name **Seraph_ButtonDemo***
+
+
+### **<span style="text-decoration:underline;">Connecting an I²C Sensor</span>**
+
+To connect an I²C sensor (such as IMUs or environmental sensors):
+
+
+
+1. Connect the SDA (Data) pin on your sensor to an SDA pin on Seraph.  \
+
+2. Connect the SCL (Clock) pin on your sensor to an SCL pin on Seraph. \
+
+3. Connect the Power (VCC) pin on your sensor to a + (power) via. \
+
+4. Connect the Ground (GND) pin on your sensor to a – (ground) via.
+
+							
+
+
+
+
+
+
+![figure4](https://i.imgur.com/VybPBKZ.png "image_tooltip")
+
+
+
 <p align="center">
   <img src="https://www.hanoverresearch.com/wp-content/uploads/2020/05/CALARTS-01.png" alt="Calarts Creative Computing Logo" width="300"/>
 </p>
