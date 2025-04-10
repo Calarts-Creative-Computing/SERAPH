@@ -46,7 +46,7 @@ This repository includes:
 Seraph is designed to be flexible and open-ended. Whether you're building a MIDI controller, sound-reactive installation, or experimental music interface, this platform is here to support your creativity.
 
 <p align="center"><strong>Have fun and make something amazing!</strong></p>
----
+
 
 
 <p align="center">
