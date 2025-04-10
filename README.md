@@ -33,4 +33,3 @@ Have fun and make something amazing!
 
 
 
-![Seraph Screenshot](https://i.ibb.co/qYGJfCW0/Screenshot-2025-03-27-at-12-43-41-AM.webp)
