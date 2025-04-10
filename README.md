@@ -119,9 +119,9 @@ For sensors such as LDRs (Light Dependent Resistors) or FSRs (Force Sensitive Re
 
 
 
-1. Connect your power lead to any + (power) via. \
+1. Connect your power lead to any + (power) via. 
 
-2. Connect your data lead to your desired analog input via, and make sure to reflect this choice in your code. \
+2. Connect your data lead to your desired analog input via, and make sure to reflect this choice in your code. 
 
 3. Place your pulldown resistor in the allocated resistor area on the PCB, and make sure it is in the same row as your chosen analog input. This connects the sensor’s data line to ground. The built-in resistor footprint on the PCB makes this easy and clean.
 
@@ -167,11 +167,11 @@ To connect an I²C sensor (such as IMUs or environmental sensors):
 
 
 
-1. Connect the SDA (Data) pin on your sensor to an SDA pin on Seraph.  \
+1. Connect the SDA (Data) pin on your sensor to an SDA pin on Seraph.  
 
-2. Connect the SCL (Clock) pin on your sensor to an SCL pin on Seraph. \
+2. Connect the SCL (Clock) pin on your sensor to an SCL pin on Seraph. 
 
-3. Connect the Power (VCC) pin on your sensor to a + (power) via. \
+3. Connect the Power (VCC) pin on your sensor to a + (power) via. 
 
 4. Connect the Ground (GND) pin on your sensor to a – (ground) via.
 
