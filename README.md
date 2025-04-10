@@ -1,7 +1,7 @@
 ![Calarts Creative Computing Logo](https://i.imgur.com/235dOcD.png)
 
 
-# SERAPH
+# Seraph
 
 
 
