@@ -39,6 +39,7 @@ This repository includes:
 4. **Upload and experiment!**  
    ◦ Flash the code to your Teensy and start exploring interactive MIDI control.  
 
+---
 
 ### Get Creative!
 
