@@ -31,4 +31,6 @@ Get Creative!
 Seraph is designed to be flexible and open-ended. Whether you're building a MIDI controller, sound-reactive installation, or experimental music interface, this platform is here to support your creativity.
 Have fun and make something amazing! 
 
-![Seraph Photo 1](https://creativecomputing.calarts.edu/wp-content/uploads/slider/cache/46fabb2e35d23d7d2545ea2f671855e8/Screenshot-2025-03-27-at-12.43.41%E2%80%AFAM.webp)
+
+
+![Alt text](https://creativecomputing.calarts.edu/wp-content/uploads/slider/cache/46fabb2e35d23d7d2545ea2f671855e8/Screenshot-2025-03-27-at-12.43.41%E2%80%AFAM.webp)
