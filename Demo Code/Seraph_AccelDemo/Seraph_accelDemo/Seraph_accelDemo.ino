@@ -96,10 +96,6 @@ void loop() {
   accelY_val_prev = accelY_val;
   accelZ_val_prev = accelZ_val;
 
-  pot_val_prev = pot_val;
-
-  button_val_prev = button_val;
-
 
   delay(1);
 }
